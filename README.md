@@ -1,5 +1,7 @@
 
-                    USER GUIDE: SRFSight & SRFQRSight
+--------------------------------------------------------------------------------
+USER GUIDE: SRFSight & SRFQRSight
+--------------------------------------------------------------------------------
 
 This document explains how to use the two R Shiny applications:
 1. SRFSight  - Balanced & Conflict-Free Evaluator Allocation Engine
@@ -88,10 +90,9 @@ STEP-BY-STEP INSTRUCTIONS:
    - Click "Download QR Code (PNG)".
    - The file will be saved as "SRFQRSight_<SRF_Number>.png".
 
-
-================================================================================
+--------------------------------------------------------------------------------
 CREDITS & ATTRIBUTION:
 Prepared by: Dr. Himel Mondal
 Department of Physiology, AIIMS Deoghar, Jharkhand, India
 Contact: himel.physiology@aiimsdeoghar.edu.in
-================================================================================
+--------------------------------------------------------------------------------
