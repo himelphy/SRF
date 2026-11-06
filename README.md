@@ -1,6 +1,5 @@
-================================================================================
+
                     USER GUIDE: SRFSight & SRFQRSight
-================================================================================
 
 This document explains how to use the two R Shiny applications:
 1. SRFSight  - Balanced & Conflict-Free Evaluator Allocation Engine
